@@ -3,6 +3,7 @@ This repository contains my portfolio submission for the Social Media Analytics 
 
 Grade achieved: 90/100 points
 
-* [`capstone.ipynb`]: The primary Jupyter Notebook where I developed the RAG system.
+* [`capstone.ipynb`]: The primary Jupyter Notebook in which I developed the RAG system.
 * [`capstone_streamlit.py`]: The Python file for a Streamlit app.
 * [`SMA_Report.pdf`]: The report I wrote about my project.
+* [`dataengineering.ipynb`]: The Jupyter Notebook in which I created the dataset. The data was obtained from https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html
